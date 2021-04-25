@@ -1,2 +1,9 @@
 .vscode/
 Siamese-Neural-Network/
+total_no_people.pcd
+total_no_people_ply
+total_no_people_ply_rot.ply
+total_no_people_ply_rot.xyz
+total_planesE.pcd
+total_no_people_ply.ply
+total_planesE_ply.ply
